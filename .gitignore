@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+./RentABike/node_modules
+
+./RentABike/env
+./RentABike/coverage
+./RentABike/coverage.json
+./RentABike/typechain
+./RentABike/typechain-types
+# Hardhat files
+./RentABike/cache
+./RentABike/artifacts
+
